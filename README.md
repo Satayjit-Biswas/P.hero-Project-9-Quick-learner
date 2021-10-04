@@ -5,7 +5,7 @@ This Live Website [Create React App](https://github.com/ProgrammingHeroWC4/revie
 * Education website
 * Choose Course 
 * free scholarship
-* bootstrap
+* Get Discount
 
 ## use website
 

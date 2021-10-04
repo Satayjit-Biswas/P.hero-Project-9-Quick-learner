@@ -13,6 +13,7 @@ import {
   Link
 } from "react-router-dom";
 import Service from './components/Service/Service';
+import Notfound from './components/Notfound/Notfound';
 
 function App() {
   return (
@@ -32,10 +33,12 @@ function App() {
             <Route path='/contact'>
               <Contact></Contact>
             </Route>
+            <Route path='*'>
+              <Notfound></Notfound>
+            </Route>
           </Switch>
           <Footer></Footer>
         </Router>
-        
     </div>
   );
 }

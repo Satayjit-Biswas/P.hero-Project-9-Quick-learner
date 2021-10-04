@@ -14,7 +14,7 @@ const Study = () => {
                 </div>
                 <div className="study_box">
                     <div className="row justify-content-center align-items-center">
-                        <div className="col-lg-4 col-md-6 col-12">
+                        <div className="col-lg-4 col-md-6 col-12 mt-4">
                             <div className="study_sub_box">
                                 <div className="study_sub_box_img">
                                     <img src={img2} alt="" className="img-fluid"/>
@@ -26,7 +26,7 @@ const Study = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6 col-12">
+                        <div className="col-lg-4 col-md-6 col-12 mt-4">
                             <div className="study_sub_box">
                                 <div className="study_sub_box_img">
                                     <img src={img1} alt="" className="img-fluid"/>
@@ -37,7 +37,7 @@ const Study = () => {
                                     <a href="#" className="custom_btn">Join program</a>
                                 </div>
                             </div>
-                        </div><div className="col-lg-4 col-md-6 col-12">
+                        </div><div className="col-lg-4 col-md-6 col-12 mt-4">
                             <div className="study_sub_box">
                                 <div className="study_sub_box_img">
                                     <img src={img3} alt="" className="img-fluid"/>

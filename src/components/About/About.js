@@ -17,7 +17,7 @@ const About = () => {
                     <h3>welcome to about page </h3>
                 
                 </div>
-                <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3">
+                <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 my-5">
                     {
                         trainerdata.map(TrainerDataPass => <Trainer GetTrainerData={TrainerDataPass}></Trainer>)
                     }

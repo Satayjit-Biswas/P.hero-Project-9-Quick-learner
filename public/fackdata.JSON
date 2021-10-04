@@ -4,101 +4,77 @@
         "img": "https://education.more4kids.info/wp-content/uploads/2015/10/03/world-teachers-day-making-a-difference-in-the-life-of-the-professional-that-makes-a-difference-in-the-life-of-your-child/teacher-readingjpg.jpg",
         "title": "Reading",
         "price": 10,
-        "time": 60,
-        "student": 42,
+        "time": "90h 20m",
+        "student": 432,
         "teacherName": "malia tin",
-        "rating":5
+        "rating":5,
+        "review":18
     },
     {
-        "id": 1,
-        "img": "https://education.more4kids.info/wp-content/uploads/2015/10/03/world-teachers-day-making-a-difference-in-the-life-of-the-professional-that-makes-a-difference-in-the-life-of-your-child/teacher-readingjpg.jpg",
-        "title": "Reading",
-        "price": 10,
-        "time": 60,
-        "student": 42,
-        "teacherName": "malia tin",
-        "rating":4.5
+        "id": 2,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPzUf0UGXpcJX71IwUCaXe4wjaSdtiwBIfJ1p6Yfl9Rmq-G-o_SFwMJp5M0Y2baaMAZ3M&usqp=CAU",
+        "title": "Drowng ",
+        "price": 30,
+        "time": "75h 40m",
+        "student": 342,
+        "teacherName": "failtin marque",
+        "rating":4.5,
+        "review":32
     },
     {
-        "id": 1,
-        "img": "https://education.more4kids.info/wp-content/uploads/2015/10/03/world-teachers-day-making-a-difference-in-the-life-of-the-professional-that-makes-a-difference-in-the-life-of-your-child/teacher-readingjpg.jpg",
+        "id": 3,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7NiSb7Ym3jhorf5L1BeiI4TNcarRvdQlPzSyqn3TZrEb-OwCfoErv99lrOcESUlSf9kg&usqp=CAU",
         "title": "Reading",
-        "price": 10,
-        "time": 60,
-        "student": 42,
-        "teacherName": "malia tin",
-        "rating":4.5
+        "price": 40,
+        "time": "55h 40m",
+        "student": 132,
+        "teacherName": "Eamalia tin",
+        "rating":4.5,
+        "review":62
         
     },
     {
-        "id": 1,
+        "id": 4,
+        "img": "https://assets.tes.com/content-attachments/s3fs-public/news-images/test_0.jpg",
+        "title": "Writing",
+        "price": 60,
+        "time": "10h 40m",
+        "student": 42,
+        "teacherName": "Axmalia tin",
+        "rating":4,
+        "review":42
+    },
+    {
+        "id": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwsDLAizQHS1Kk8a2qMhaYFZXbTxNR0nAyRA8MmaFCQBmecQ-aBr5gBLlh3641OSFmP3Q&usqp=CAU",
+        "title": "Drowing",
+        "price": 80,
+        "time": "90h 20m",
+        "student": 42,
+        "teacherName": "malia tin",
+        "rating": 3,
+        "review":82
+    },
+    {
+        "id": 6,
+        "img": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/07/19/Pictures/wednesday-hindustan-discussion-careers-australian-foreign-minister_449e1312-6c89-11e7-90b5-ba41537c464e.jpg",
+        "title": "Mainter",
+        "price": 10,
+        "time": "65h 40m",
+        "student": 42,
+        "teacherName": "Wmalia tin",
+        "rating":4,
+        "review":22
+    },
+    {
+        "id": 7,
         "img": "https://education.more4kids.info/wp-content/uploads/2015/10/03/world-teachers-day-making-a-difference-in-the-life-of-the-professional-that-makes-a-difference-in-the-life-of-your-child/teacher-readingjpg.jpg",
         "title": "Reading",
         "price": 10,
         "time": 60,
         "student": 42,
         "teacherName": "malia tin",
-        "rating":4
-    },
-    {
-        "id": 1,
-        "img": "https://education.more4kids.info/wp-content/uploads/2015/10/03/world-teachers-day-making-a-difference-in-the-life-of-the-professional-that-makes-a-difference-in-the-life-of-your-child/teacher-readingjpg.jpg",
-        "title": "Reading",
-        "price": 10,
-        "time": 60,
-        "student": 42,
-        "teacherName": "malia tin",
-        "rating": 3
-    },
-    {
-        "id": 1,
-        "img": "https://education.more4kids.info/wp-content/uploads/2015/10/03/world-teachers-day-making-a-difference-in-the-life-of-the-professional-that-makes-a-difference-in-the-life-of-your-child/teacher-readingjpg.jpg",
-        "title": "Reading",
-        "price": 10,
-        "time": 60,
-        "student": 42,
-        "teacherName": "malia tin",
-        "rating":4
-    },
-    {
-        "id": 1,
-        "img": "https://education.more4kids.info/wp-content/uploads/2015/10/03/world-teachers-day-making-a-difference-in-the-life-of-the-professional-that-makes-a-difference-in-the-life-of-your-child/teacher-readingjpg.jpg",
-        "title": "Reading",
-        "price": 10,
-        "time": 60,
-        "student": 42,
-        "teacherName": "malia tin",
-        "rating":4
-    },
-    {
-        "id": 1,
-        "img": "https://education.more4kids.info/wp-content/uploads/2015/10/03/world-teachers-day-making-a-difference-in-the-life-of-the-professional-that-makes-a-difference-in-the-life-of-your-child/teacher-readingjpg.jpg",
-        "title": "Reading",
-        "price": 10,
-        "time": 60,
-        "student": 42,
-        "teacherName": "malia tin"
-        ,
-        "rating":4.1
-    },
-    {
-        "id": 1,
-        "img": "https://education.more4kids.info/wp-content/uploads/2015/10/03/world-teachers-day-making-a-difference-in-the-life-of-the-professional-that-makes-a-difference-in-the-life-of-your-child/teacher-readingjpg.jpg",
-        "title": "Reading",
-        "price": 10,
-        "time": 60,
-        "student": 42,
-        "teacherName": "malia tin",
-        "rating":3.5
-    },
-    {
-        "id": 1,
-        "img": "https://education.more4kids.info/wp-content/uploads/2015/10/03/world-teachers-day-making-a-difference-in-the-life-of-the-professional-that-makes-a-difference-in-the-life-of-your-child/teacher-readingjpg.jpg",
-        "title": "Reading",
-        "price": 10,
-        "time": 60,
-        "student": 42,
-        "teacherName": "malia tin",
-        "rating":4.5
+        "rating":4,
+        "review":52
     }
 ]

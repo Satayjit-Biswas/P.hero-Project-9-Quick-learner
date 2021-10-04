@@ -1,11 +1,12 @@
 footer{
     min-height: 100px;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     text-align: center;
     color: #FFF;
     display: flex;
     justify-content: center;
     align-items: center;
+    border-top: 1px solid #39c9993b;
 }
 .footer_logo img{
     max-width: 120px;
@@ -16,7 +17,7 @@ footer{
     color: #39C998;
     height: 40px;
     width: 40px;
-    background-color: #FFF;
+    background-color: rgb(224, 223, 223);
     text-align: center;
     line-height: 42px;
     border-radius: 500%;

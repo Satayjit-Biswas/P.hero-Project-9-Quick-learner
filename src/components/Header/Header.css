@@ -38,4 +38,7 @@
     .navbar .container{
         flex-direction: row;
     }
+    .nav-item a{
+        display: inline-block;
+    }
 }

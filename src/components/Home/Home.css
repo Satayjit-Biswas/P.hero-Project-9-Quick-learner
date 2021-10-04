@@ -34,11 +34,17 @@
     text-align: end;
 }
 .slider_right img{
-    max-width: 68%;
+    max-width: 65%;
 }
 .bgIcon{
     position: absolute;
     bottom: 20px;
     right: 40px;
     max-width: 100px;
+}
+
+@media (max-width:991.98px){
+    .slider_right {
+        display: none;
+    }
 }

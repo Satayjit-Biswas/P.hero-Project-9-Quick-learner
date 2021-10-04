@@ -17,7 +17,7 @@ const Topservice = () => {
                 <div className="text-center">
                     <h6>our service</h6>
                     <h3>Choose our service</h3>
-                    <div className="row row-cols-1 row-cols-sm-2 row-cols-md-4 my-5">
+                    <div className="row row-cols-1 row-cols-md-2 row-cols-lg-4 my-5">
                         {
                             ChooseServiceData.map(GetserviceData => <AllService serviceData={GetserviceData}></AllService>)
                             

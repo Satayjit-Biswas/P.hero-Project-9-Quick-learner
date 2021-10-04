@@ -18,7 +18,7 @@ return (
             <div className="collapse navbar-collapse" id="navbarNav">
                 <ul className="navbar-nav ms-auto text-center">
                     <li className="nav-item">
-                        <NavLink className="nav-link active" aria-current="page" to="/">Home</NavLink>
+                        <NavLink exact className="nav-link" aria-current="page" to="/">Home</NavLink>
                     </li>
                     <li className="nav-item">
                         <NavLink className="nav-link" to="/service">Service</NavLink>

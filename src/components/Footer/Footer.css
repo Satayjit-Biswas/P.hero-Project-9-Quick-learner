@@ -1,0 +1,33 @@
+footer{
+    min-height: 100px;
+    background-color: black;
+    text-align: center;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer_logo img{
+    max-width: 120px;
+    padding: 25px 0 5px 0;
+}
+.footer_icon a {
+    text-decoration: none;
+    color: #39C998;
+    height: 40px;
+    width: 40px;
+    background-color: #FFF;
+    text-align: center;
+    line-height: 42px;
+    border-radius: 500%;
+    margin: 15px 6px;
+    display: inline-block;
+    transition: .3s;
+    font-size: 18px;
+
+}
+.footer_icon a:hover {
+    color: #fff;
+    background-color: #39C998;
+    transform: scale(1.1);
+}

@@ -1,0 +1,25 @@
+.study{
+    margin: 80px 0 60px 0;
+}
+.study_box{
+    margin-bottom: 80px;
+}
+.study_sub_box{
+    box-shadow: 0px 0px 8px 0px rgb(0 0 0 / 18%);
+    border-radius: 5px;
+    overflow: hidden;
+    transition: .5s;
+}
+.study_sub_box:hover{
+    box-shadow: 0px 0px 8px 0px rgb(0 0 0 / 18%);
+    transform: scale(1.03);
+}
+.study_sub_box_img {
+    min-height: 350px;
+    max-height: 360px;
+    overflow: hidden;
+}
+.study_sub_box_title{
+    padding: 30px 20px;
+    background-color: #f8fbff ;
+}

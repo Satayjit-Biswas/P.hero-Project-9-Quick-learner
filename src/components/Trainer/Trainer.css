@@ -1,0 +1,4 @@
+.study_sub_box_img img{
+    object-fit: cover;
+    width: 100%;
+}

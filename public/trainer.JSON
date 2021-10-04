@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "name": "Milon mia",
+        "profession": "English",
+        "Age": 27,
+        "student": 1255,
+        "salary": 17700
+    },
+    {
+        "id": 2,
+        "img": "https://thumbs.dreamstime.com/b/handsome-man-black-suit-white-shirt-posing-studio-attractive-guy-fashion-hairstyle-confident-man-short-beard-125019349.jpg",
+        "name": "arif khan",
+        "profession": "Math-mathicks",
+        "Age": 22,
+        "student": 3445,
+        "salary": 24700
+    },
+    {
+        "id": 3,
+        "img": "https://cdn.xxl.thumbs.canstockphoto.com/portrait-of-young-man-smiling-background-stock-photography_csp12568100.jpg",
+        "name": "antor pual",
+        "profession": "Sosial",
+        "Age": 26,
+        "student": 633,
+        "salary": 22700
+    },
+    {
+        "id": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJDluM9eKiKqhZde3i_WH0bgI4dFuUqTfLNff1mJbfkhBODJ5QX72S8IiEzgdFaisnqk&usqp=CAU",
+        "name": "kaka mia",
+        "profession": "Writer",
+        "Age": 23,
+        "student": 234,
+        "salary": 12700
+    },
+    {
+        "id": 5,
+        "img": "https://i.pinimg.com/564x/e2/29/5f/e2295f7b9b470f873d0cc4b088ac0726.jpg",
+        "name": "mithoun biswas",
+        "profession": "Reader",
+        "Age": 21,
+        "student": 1254,
+        "salary": 27700
+    },
+    {
+        "id": 6,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR81l2vDqon3S1xc9IL1xCfyMI_uG9RdxHVtZ9UO6x1_KCAItTwbPM27NF36RU6vUXBCdk&usqp=CAU",
+        "name": "Rasel Islam",
+        "profession": "Drowing",
+        "Age": 24,
+        "student": 2334,
+        "salary": 35700
+    }
+]

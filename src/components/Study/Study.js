@@ -1,9 +1,10 @@
-import React from 'react';
+import React, { Component } from 'react';
 import img1 from '../../images/img-box-1.jpg'
 import img2 from '../../images/img-box-2.jpg'
 import img3 from '../../images/img-box-3.jpg'
 import './Study.css'
 
+// study Component 
 const Study = () => {
     return (
         <div>

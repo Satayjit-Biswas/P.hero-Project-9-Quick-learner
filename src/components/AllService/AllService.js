@@ -3,6 +3,7 @@ import Rating from 'react-rating'
 import './AllService.css'
 
 const AllService = (props) => {
+    // get data
     const {img,teacherName, title,time ,price,student,rating,review} = props.serviceData
     return (
         <div className="col mb-4">
@@ -18,7 +19,8 @@ const AllService = (props) => {
                     <div className="d-flex justify-content-between align-items-center mb-3">
                         <p> <i class="far fa-user"></i>  {student}</p>
                         <div className="star">
-                            {
+                            {   
+                                /* star rating  */
                                 <Rating
                                     initialRating={ rating }
                                     emptySymbol="far fa-star rate-color"
@@ -30,6 +32,7 @@ const AllService = (props) => {
                         </div>
                     
                     </div>
+                     {/* Enroll btn  */}
                     <a href="#" className="custom_btn">Enroll Now</a>
                 </div>
             </div>

@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import Trainer from '../Trainer/Trainer';
 import './About.css'
-
+// about component 
 const About = () => {
     const [trainerdata,setTrainerdata] = useState([]);
+    // fetch Trainer 
     useEffect(()=>{
         fetch('trainer.JSON')
             .then(res => res.json())
@@ -18,7 +19,8 @@ const About = () => {
                 
                 </div>
                 <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 my-5">
-                    {
+                    {   
+                        /* call Trainer of api */
                         trainerdata.map(TrainerDataPass => <Trainer GetTrainerData={TrainerDataPass}></Trainer>)
                     }
                 </div>

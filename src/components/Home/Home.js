@@ -7,8 +7,7 @@ import Contact from '../Contact/Contact';
 import Topservice from '../Topservice/Topservice';
 import { NavLink } from 'react-router-dom';
 
-
-
+// home component 
 const Home = () => {
     return (
         <div>
@@ -30,8 +29,11 @@ const Home = () => {
                 </div>
                 <img src={bgIcon} alt="" className="img-fluid bgIcon"/>
             </div>
+            {/* Study component  */}
             <Study></Study>
+            {/* topservice component  */}
             <Topservice></Topservice>
+            {/* contact component  */}
             <Contact></Contact>
         </div>
     );

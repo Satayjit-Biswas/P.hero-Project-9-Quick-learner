@@ -1,9 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
 import Footer from './components/Footer/Footer';
-import Study from './components/Study/Study';
 import Contact from './components/Contact/Contact';
 import About from './components/About/About';
 import {
@@ -18,6 +16,7 @@ import Notfound from './components/Notfound/Notfound';
 function App() {
   return (
     <div className="App">
+      {/* router area  */}
         <Router>
           <Header></Header>
           <Switch>

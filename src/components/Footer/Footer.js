@@ -1,7 +1,7 @@
-import React from 'react';
+import React, { Component } from 'react';
 import './Footer.css'
 import footerLogo from '../../images/logo.png'
-
+// footer Component 
 const Footer = () => {
     return (
         <footer>
@@ -9,6 +9,7 @@ const Footer = () => {
                 <div className="footer_logo">
                     <img src={footerLogo} alt="" className="img-fluid" />
                 </div>
+                {/* social icon  */}
                 <div className="footer_icon">
                     <a href="#"><i className="fab fa-facebook-f"></i></a>
                     <a href="#"><i className="fab fa-twitter"></i></a>

@@ -1,6 +1,6 @@
 import React from 'react';
 import './Contact.css'
-
+// contact component 
 const Contact = () => {
 return (
 <div>
@@ -10,6 +10,7 @@ return (
                 <h6>Contact page</h6>
                 <h3>Welcome to contact page</h3>
             </div>
+            {/* form  */}
             <form className="row g-3">
                 <div className="col-md-6">
                     <input type="text" className="form-control" placeholder="First name" aria-label="First name" />
@@ -35,7 +36,7 @@ return (
                         placeholder="Apartment, studio, or floor" />
                 </div>
                 <div className="col-12 text-center">
-                    <button type="submit" className="custom_btn">Sign in</button>
+                    <button type="submit" className="custom_btn">Send</button>
                 </div>
             </form>
         </div>

@@ -24,7 +24,7 @@
     {
         "id": 3,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7NiSb7Ym3jhorf5L1BeiI4TNcarRvdQlPzSyqn3TZrEb-OwCfoErv99lrOcESUlSf9kg&usqp=CAU",
-        "title": "Reading",
+        "title": "playing",
         "price": 40,
         "time": "55h 40m",
         "student": 132,
@@ -36,7 +36,7 @@
     {
         "id": 4,
         "img": "https://assets.tes.com/content-attachments/s3fs-public/news-images/test_0.jpg",
-        "title": "Writing",
+        "title": "story",
         "price": 60,
         "time": "10h 40m",
         "student": 42,

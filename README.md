@@ -1,6 +1,6 @@
 # Quick learner
 
-This Live Website [Create React App](https://github.com/ProgrammingHeroWC4/review-website-Satayjit-Biswas).
+This Website [Live](https://thirsty-saha-83cc35.netlify.app/).
 
 * Education website
 * Choose Course 
